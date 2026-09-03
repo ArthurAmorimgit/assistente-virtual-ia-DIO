@@ -1,0 +1,12 @@
+{
+  "topicos": [
+    {
+      "termo": "Reserva de Emergência",
+      "conteudo": "Equivale a 3 a 6 meses de custo de vida. Deve ficar em investimentos de baixo risco e alta liquidez, como Tesouro Selic ou CDB 100% do CDI."
+    },
+    {
+      "termo": "CDB",
+      "conteudo": "Certificado de Depósito Bancário. É como emprestar dinheiro para o banco. Possui proteção do FGC até R$ 250 mil por CPF."
+    }
+  ]
+}
